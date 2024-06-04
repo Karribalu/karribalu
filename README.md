@@ -1,12 +1,12 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 <h1 align="center">Hi 👋, I'm Balasubramanyam</h1>
-<h3 align="center">I am a Full Stack Java Developer at JPMC, based in Glasgow. With a strong background in ReactJS, TypeScript, and JavaScript, I specialize in developing web applications with a focus on front-end technologies. I am passionate about exploring the Web3 domain and have started working on projects involving Solidity, Blockchain, and Ethereum. Additionally, I possess expertise in deploying smart contracts to the network using Hardhat.</h3>
+<h3 align="center">I am a Full Stack Java Developer at JPMC, based in Glasgow. With a strong background in ReactJS, TypeScript, Java, Rust, and SpringBoot, and a certified AWS Developer Associate, I specialize in developing web applications with a focus on front-end technologies. I am currently exploring the wonders of Rust and building my implementation of SQLite in Rust. </h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=826&t=st=1687469172~exp=1687469772~hmac=f40a604419b3bc20b8e93b740a9f9bd83d65543ced611aa2effa41ea84cc5d7e" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karribalu&label=Profile%20views&color=0e75b6&style=flat" alt="karribalu" /> </p>
 
 <p align="left"> <a href="https://twitter.com/subbu2339" target="blank"><img src="https://img.shields.io/twitter/follow/subbu2339?logo=twitter&style=for-the-badge" alt="subbu2339" /></a> </p>
 
-- 🔭 I’m currently working on [My Portfolio Website](https://www.balasubramanyam.xyz)
+- 🔭 I’m currently working on [Sqllite implementation in ](https://github.com/Karribalu/try-db)
 
 - 🌱 I’m currently learning **Solidty, Typescript, Rust**
 
