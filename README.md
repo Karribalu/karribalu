@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/subbu2339" target="blank"><img src="https://img.shields.io/twitter/follow/subbu2339?logo=twitter&style=for-the-badge" alt="subbu2339" /></a> </p>
 
-- 🔭 I’m currently working on [Sqllite implementation in ](https://github.com/Karribalu/try-db)
+- 🔭 I’m currently working on [Sqllite implementation in Rust](https://github.com/Karribalu/try-db)
 
 - 🌱 I’m currently learning **Solidty, Typescript, Rust**
 
