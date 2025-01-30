@@ -8,13 +8,12 @@
 
 - 🔭 I’m currently working on [Sqllite implementation in Rust](https://github.com/Karribalu/try-db)
 
-- 🌱 I’m currently learning **Solidty, Typescript, Rust**
+- 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **Java, react**
 
 - 📫 How to reach me **karri.balu2339@gmail.com**
 
-- ⚡ Fun fact **I'm a Full Stack Java Developer by day and a blockchain enthusiast by night, combining my passion for coding with the revolutionary potential of decentralized technologies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
